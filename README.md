@@ -22,8 +22,25 @@ Since the pre-prep work for HtB is always the same, I created HAS to automate th
 
 # Installation
 
-```
-git clone https://github.com/Clipsec/HtB-Auto-Script && cd HtB-Auto-Script
+Firstly download HAS and move into the Foder:
 
+```
+git clone https://github.com/Clipsec/HtB-Auto-Script 
+
+cd HtB-Auto-Script
+```
+
+Now you have to change a few things in the script (give it the right ```PATH```).
+
+Have a closer look at:
+
+- Folder Structure
+- Obsidian Copy
+- Tmux
+
+after that you are ready to go!
+
+```
 python3 HAS.py
 ```
+
