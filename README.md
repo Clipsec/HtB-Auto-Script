@@ -5,7 +5,7 @@ Since the pre-prep work for HtB is always the same, I created HAS to automate th
 # Features
 
 - Creates a Folder in a given ```PATH``` with the ```BOXNAME```.  
-	-> Checks if the Folder already exist (If yes, scips the creation).
+	-> Checks if the Folder already exist (If yes, skips the creation).
 - Creates a ```"nmap"``` Folder in the ```BOXNAME```'s Folder.
 - Adds the IP to ```"/etc/hosts"``` with ```BOXNAME``` and ```BOXNAME.htb```.
 - Checks if you are connected to the HTB VPN.  
